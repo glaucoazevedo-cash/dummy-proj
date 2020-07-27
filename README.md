@@ -1,3 +1,3 @@
 # dummy-proj
 
-Teste
+Esse é um repositório de testes.
